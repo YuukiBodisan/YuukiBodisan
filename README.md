@@ -1,14 +1,14 @@
-Hi there 👋 I'm Bohdan Zbutskyi!
-
-💻 Frontend Developer — turning ideas into interactive web experiences
-🎨 Designer at heart — pixel-perfect UI with a touch of creativity
-✍️ Storyteller through code and content, sharing what I learn
-✨ Passionate about modern web tech, animations, and smooth UX
+# Hi there 👋 I'm Bohdan Zbutskyi!
+  
+💻 Frontend Developer — turning ideas into interactive web experiences  
+🎨 Also working as an online Graphic designer  
+✍️ Storyteller through code and content, sharing what I learn  
+✨ Passionate about modern web tech, animations, and smooth UX  
 🌱 Forever experimenting, building, and leveling up on the web
 
 ---
 
-🌐 Socials:
+## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/) 
@@ -16,7 +16,7 @@ Hi there 👋 I'm Bohdan Zbutskyi!
 
 ---
 
-💻 Tech Stack:
+## 💻 Tech Stack:
 
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
