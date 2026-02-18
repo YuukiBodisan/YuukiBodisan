@@ -45,6 +45,6 @@
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)]()
 [![Windows Terminal](https://img.shields.io/badge/WINDOWS_TERMINAL-0078D6?style=for-the-badge&logo=windowsterminal&logoColor=white)]()
-[![VS Code](https://img.shields.io/badge/VS%20CODE-0078D7?style=flat-square&logo=visualstudiocode&logoColor=white)]()
+[![VS Code](https://img.shields.io/badge/VS_CODE-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
 
 
